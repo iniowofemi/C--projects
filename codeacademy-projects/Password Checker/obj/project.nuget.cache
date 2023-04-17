@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1i6ATekR9cq6jXqhPrfr0nEWhWIJit182lDLuf+oIdeussCHeDCVUZ4yiwO5I6hsVvEu5Hi+/LplwXcr+t6Y5A==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\Personal GitHub Projects\\codeacademy projects\\Password Checker\\Password Checker\\Password Checker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibowo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
