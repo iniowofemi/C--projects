@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPqegh7FiqzXGgaH4kWsMiBZp3Xsr7l6Qwc9gNypH5g04atWmEyQLcl6YUYMbrggrUyolSZlo9lbJ0wOYTO4Hg==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\Personal GitHub Projects\\codeacademy projects\\Exquisite Corpse\\Exquisite Corpse\\Exquisite Corpse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibowo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
