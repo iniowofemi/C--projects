@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBMMRpdhU6udGni7Qrs3ktWUS0DndW6nt/3l6RFd5bT56lAK9/rocBbie6GBG+8XZq25jIBd06W1da+TxvSoaQ==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\Personal GitHub Projects\\codeacademy projects\\The Object of Your Affection\\The Object of Your Affection\\The Object of Your Affection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibowo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
