@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZne8OnCQrNqxuiUGuQhYwdQBNZK0ZHIl5Nyp//M8IqKNo67fbvzgaLBeqCWb5psvMEcXAyVm4/4GpjO86kAEg==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\Personal GitHub Projects\\codeacademy projects\\Choose Your Own Adventure\\Choose Your Own Adventure\\Choose Your Own Adventure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibowo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
