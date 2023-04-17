@@ -1,0 +1,16 @@
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.exe
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.deps.json
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.runtimeconfig.json
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.runtimeconfig.dev.json
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.dll
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.pdb
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.csproj.AssemblyReference.cache
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.AssemblyInfoInputs.cache
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.AssemblyInfo.cs
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.csproj.CoreCompileInputs.cache
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.dll
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\obj\Debug\net5.0\refint\Architect Arithmetic.dll
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.pdb
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.genruntimeconfig.cache
+D:\Coding\Personal GitHub Projects\Architect Arithmetic\obj\Debug\net5.0\ref\Architect Arithmetic.dll
